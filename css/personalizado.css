@@ -1,0 +1,6 @@
+.logo-grande {
+  
+  width: 250px; /* ou o tamanho desejado */
+  height: auto; /* para manter a proporção */
+  opacity: 0;
+}
