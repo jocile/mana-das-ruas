@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.logo-grande {  
+  width: 250px; /* ou o tamanho desejado */
+  height: auto; /* para manter a proporção */
+  opacity: 0;
+}
+
+.carousel-image-container img {
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px; /* Ajuste este valor para a altura desejada */
+  overflow: hidden;
+}
+
+.carousel-image-container img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
