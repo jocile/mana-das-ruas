@@ -6,6 +6,10 @@
   opacity: 0;
 }
 
+.btn-primary {
+  --bs-btn-bg: #85292a !important;
+}
+
 .carousel-image-container img {
   height: auto;
   object-fit: cover;
